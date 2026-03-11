@@ -1,0 +1,5 @@
+[openinference_instrumentor]
+openai_agents = openinference.instrumentation.openai_agents:OpenAIAgentsInstrumentor
+
+[opentelemetry_instrumentor]
+openai_agents = openinference.instrumentation.openai_agents:OpenAIAgentsInstrumentor

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py:*)",
+      "Bash(conda run:*)",
+      "Read(//c/Users/liuxy/AppData/Local/Programs/Python//**)",
+      "Read(//c/Users/liuxy/miniconda3/**)",
+      "Read(//c/Users/liuxy/anaconda3/**)",
+      "Bash(\"/c/Users/liuxy/AppData/Local/Programs/Python/Python313/python.exe\":*)",
+      "Bash(\"$PYTHON\":*)",
+      "Bash(trading_ai/Scripts/python.exe:*)",
+      "Bash(printf a\\\\na\\\\n1\\\\na\\\\nc\\\\n\\\\n:*)"
+    ]
+  }
+}

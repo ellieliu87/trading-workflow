@@ -1,0 +1,1002 @@
+{
+  "session_id": "20260309_175526_c23ecd",
+  "created_at": "2026-03-09T17:55:26.315409",
+  "updated_at": "2026-03-09T17:56:05.192855",
+  "phase": "complete",
+  "risk_appetite": "moderate",
+  "trader_name": "Trader",
+  "monthly_volumes": [
+    {
+      "date": "2025-01-01",
+      "target_total_balance_mm": 23177.91,
+      "predicted_existing_balance_mm": 22074.2,
+      "new_volume_mm": 1103.71
+    },
+    {
+      "date": "2025-02-01",
+      "target_total_balance_mm": 23180.0,
+      "predicted_existing_balance_mm": 21791.6265,
+      "new_volume_mm": 1388.37
+    },
+    {
+      "date": "2025-03-01",
+      "target_total_balance_mm": 23186.23,
+      "predicted_existing_balance_mm": 21510.3314,
+      "new_volume_mm": 1675.9
+    },
+    {
+      "date": "2025-04-01",
+      "target_total_balance_mm": 23196.53,
+      "predicted_existing_balance_mm": 21228.5642,
+      "new_volume_mm": 1967.97
+    },
+    {
+      "date": "2025-05-01",
+      "target_total_balance_mm": 23210.83,
+      "predicted_existing_balance_mm": 20946.8711,
+      "new_volume_mm": 2263.96
+    },
+    {
+      "date": "2025-06-01",
+      "target_total_balance_mm": 23229.05,
+      "predicted_existing_balance_mm": 20664.3703,
+      "new_volume_mm": 2564.68
+    },
+    {
+      "date": "2025-07-01",
+      "target_total_balance_mm": 23251.12,
+      "predicted_existing_balance_mm": 20380.6034,
+      "new_volume_mm": 2870.52
+    },
+    {
+      "date": "2025-08-01",
+      "target_total_balance_mm": 23276.98,
+      "predicted_existing_balance_mm": 20097.4409,
+      "new_volume_mm": 3179.54
+    },
+    {
+      "date": "2025-09-01",
+      "target_total_balance_mm": 23306.55,
+      "predicted_existing_balance_mm": 19815.1582,
+      "new_volume_mm": 3491.39
+    },
+    {
+      "date": "2025-10-01",
+      "target_total_balance_mm": 23339.77,
+      "predicted_existing_balance_mm": 19532.6995,
+      "new_volume_mm": 3807.07
+    },
+    {
+      "date": "2025-11-01",
+      "target_total_balance_mm": 23376.56,
+      "predicted_existing_balance_mm": 19251.3976,
+      "new_volume_mm": 4125.16
+    },
+    {
+      "date": "2025-12-01",
+      "target_total_balance_mm": 23416.85,
+      "predicted_existing_balance_mm": 18968.3558,
+      "new_volume_mm": 4448.49
+    },
+    {
+      "date": "2026-01-01",
+      "target_total_balance_mm": 23460.57,
+      "predicted_existing_balance_mm": 18686.7192,
+      "new_volume_mm": 4773.85
+    },
+    {
+      "date": "2026-02-01",
+      "target_total_balance_mm": 23507.65,
+      "predicted_existing_balance_mm": 18405.7964,
+      "new_volume_mm": 5101.85
+    },
+    {
+      "date": "2026-03-01",
+      "target_total_balance_mm": 23558.02,
+      "predicted_existing_balance_mm": 18125.6886,
+      "new_volume_mm": 5432.33
+    },
+    {
+      "date": "2026-04-01",
+      "target_total_balance_mm": 23611.61,
+      "predicted_existing_balance_mm": 17845.2833,
+      "new_volume_mm": 5766.33
+    },
+    {
+      "date": "2026-05-01",
+      "target_total_balance_mm": 23668.34,
+      "predicted_existing_balance_mm": 17565.4291,
+      "new_volume_mm": 6102.91
+    },
+    {
+      "date": "2026-06-01",
+      "target_total_balance_mm": 23728.16,
+      "predicted_existing_balance_mm": 17284.6701,
+      "new_volume_mm": 6443.49
+    },
+    {
+      "date": "2026-07-01",
+      "target_total_balance_mm": 23790.98,
+      "predicted_existing_balance_mm": 17005.2751,
+      "new_volume_mm": 6785.7
+    },
+    {
+      "date": "2026-08-01",
+      "target_total_balance_mm": 23856.73,
+      "predicted_existing_balance_mm": 16724.5248,
+      "new_volume_mm": 7132.21
+    },
+    {
+      "date": "2026-09-01",
+      "target_total_balance_mm": 23925.35,
+      "predicted_existing_balance_mm": 16444.785499999998,
+      "new_volume_mm": 7480.56
+    },
+    {
+      "date": "2026-10-01",
+      "target_total_balance_mm": 23996.76,
+      "predicted_existing_balance_mm": 16166.2842,
+      "new_volume_mm": 7830.48
+    },
+    {
+      "date": "2026-11-01",
+      "target_total_balance_mm": 24070.9,
+      "predicted_existing_balance_mm": 15888.5501,
+      "new_volume_mm": 8182.35
+    },
+    {
+      "date": "2026-12-01",
+      "target_total_balance_mm": 24147.69,
+      "predicted_existing_balance_mm": 15611.2942,
+      "new_volume_mm": 8536.4
+    },
+    {
+      "date": "2027-01-01",
+      "target_total_balance_mm": 24227.06,
+      "predicted_existing_balance_mm": 15335.726,
+      "new_volume_mm": 8891.33
+    },
+    {
+      "date": "2027-02-01",
+      "target_total_balance_mm": 24308.94,
+      "predicted_existing_balance_mm": 15146.584200000001,
+      "new_volume_mm": 9162.36
+    },
+    {
+      "date": "2027-03-01",
+      "target_total_balance_mm": 24393.26,
+      "predicted_existing_balance_mm": 14958.614300000001,
+      "new_volume_mm": 9434.65
+    },
+    {
+      "date": "2027-04-01",
+      "target_total_balance_mm": 24479.96,
+      "predicted_existing_balance_mm": 14771.4133,
+      "new_volume_mm": 9708.55
+    },
+    {
+      "date": "2027-05-01",
+      "target_total_balance_mm": 24568.95,
+      "predicted_existing_balance_mm": 14586.127700000001,
+      "new_volume_mm": 9982.82
+    },
+    {
+      "date": "2027-06-01",
+      "target_total_balance_mm": 24660.17,
+      "predicted_existing_balance_mm": 14401.511,
+      "new_volume_mm": 10258.66
+    },
+    {
+      "date": "2027-07-01",
+      "target_total_balance_mm": 24753.54,
+      "predicted_existing_balance_mm": 14217.249899999999,
+      "new_volume_mm": 10536.29
+    },
+    {
+      "date": "2027-08-01",
+      "target_total_balance_mm": 24849.01,
+      "predicted_existing_balance_mm": 14034.2879,
+      "new_volume_mm": 10814.72
+    },
+    {
+      "date": "2027-09-01",
+      "target_total_balance_mm": 24946.49,
+      "predicted_existing_balance_mm": 13852.26,
+      "new_volume_mm": 11094.23
+    },
+    {
+      "date": "2027-10-01",
+      "target_total_balance_mm": 25045.91,
+      "predicted_existing_balance_mm": 13671.9117,
+      "new_volume_mm": 11374.0
+    },
+    {
+      "date": "2027-11-01",
+      "target_total_balance_mm": 25147.21,
+      "predicted_existing_balance_mm": 13491.8628,
+      "new_volume_mm": 11655.35
+    },
+    {
+      "date": "2027-12-01",
+      "target_total_balance_mm": 25250.31,
+      "predicted_existing_balance_mm": 13312.6322,
+      "new_volume_mm": 11937.68
+    },
+    {
+      "date": "2028-01-01",
+      "target_total_balance_mm": 25355.15,
+      "predicted_existing_balance_mm": 13135.0767,
+      "new_volume_mm": 12220.07
+    },
+    {
+      "date": "2028-02-01",
+      "target_total_balance_mm": 25461.65,
+      "predicted_existing_balance_mm": 12958.6953,
+      "new_volume_mm": 12502.95
+    },
+    {
+      "date": "2028-03-01",
+      "target_total_balance_mm": 25569.74,
+      "predicted_existing_balance_mm": 12782.6297,
+      "new_volume_mm": 12787.11
+    },
+    {
+      "date": "2028-04-01",
+      "target_total_balance_mm": 25679.35,
+      "predicted_existing_balance_mm": 12607.3148,
+      "new_volume_mm": 13072.04
+    },
+    {
+      "date": "2028-05-01",
+      "target_total_balance_mm": 25790.41,
+      "predicted_existing_balance_mm": 12433.0326,
+      "new_volume_mm": 13357.38
+    },
+    {
+      "date": "2028-06-01",
+      "target_total_balance_mm": 25902.85,
+      "predicted_existing_balance_mm": 12259.729,
+      "new_volume_mm": 13643.12
+    },
+    {
+      "date": "2028-07-01",
+      "target_total_balance_mm": 26016.6,
+      "predicted_existing_balance_mm": 12088.2916,
+      "new_volume_mm": 13928.31
+    },
+    {
+      "date": "2028-08-01",
+      "target_total_balance_mm": 26131.59,
+      "predicted_existing_balance_mm": 11916.993,
+      "new_volume_mm": 14214.6
+    },
+    {
+      "date": "2028-09-01",
+      "target_total_balance_mm": 26247.74,
+      "predicted_existing_balance_mm": 11746.3985,
+      "new_volume_mm": 14501.34
+    },
+    {
+      "date": "2028-10-01",
+      "target_total_balance_mm": 26364.99,
+      "predicted_existing_balance_mm": 11575.4659,
+      "new_volume_mm": 14789.52
+    },
+    {
+      "date": "2028-11-01",
+      "target_total_balance_mm": 26483.27,
+      "predicted_existing_balance_mm": 11406.9229,
+      "new_volume_mm": 15076.35
+    },
+    {
+      "date": "2028-12-01",
+      "target_total_balance_mm": 26602.5,
+      "predicted_existing_balance_mm": 11238.939699999999,
+      "new_volume_mm": 15363.56
+    },
+    {
+      "date": "2029-01-01",
+      "target_total_balance_mm": 26722.61,
+      "predicted_existing_balance_mm": 11071.291000000001,
+      "new_volume_mm": 15651.32
+    },
+    {
+      "date": "2029-02-01",
+      "target_total_balance_mm": 26843.54,
+      "predicted_existing_balance_mm": 10904.003,
+      "new_volume_mm": 15939.54
+    },
+    {
+      "date": "2029-03-01",
+      "target_total_balance_mm": 26965.21,
+      "predicted_existing_balance_mm": 10737.5809,
+      "new_volume_mm": 16227.63
+    },
+    {
+      "date": "2029-04-01",
+      "target_total_balance_mm": 27087.55,
+      "predicted_existing_balance_mm": 10571.9086,
+      "new_volume_mm": 16515.64
+    },
+    {
+      "date": "2029-05-01",
+      "target_total_balance_mm": 27210.5,
+      "predicted_existing_balance_mm": 10406.6555,
+      "new_volume_mm": 16803.84
+    },
+    {
+      "date": "2029-06-01",
+      "target_total_balance_mm": 27333.97,
+      "predicted_existing_balance_mm": 10242.869200000001,
+      "new_volume_mm": 17091.1
+    },
+    {
+      "date": "2029-07-01",
+      "target_total_balance_mm": 27457.91,
+      "predicted_existing_balance_mm": 10079.3002,
+      "new_volume_mm": 17378.61
+    },
+    {
+      "date": "2029-08-01",
+      "target_total_balance_mm": 27582.23,
+      "predicted_existing_balance_mm": 9916.0565,
+      "new_volume_mm": 17666.17
+    },
+    {
+      "date": "2029-09-01",
+      "target_total_balance_mm": 27706.87,
+      "predicted_existing_balance_mm": 9754.5887,
+      "new_volume_mm": 17952.28
+    },
+    {
+      "date": "2029-10-01",
+      "target_total_balance_mm": 27831.76,
+      "predicted_existing_balance_mm": 9592.389,
+      "new_volume_mm": 18239.37
+    },
+    {
+      "date": "2029-11-01",
+      "target_total_balance_mm": 27956.83,
+      "predicted_existing_balance_mm": 9431.1256,
+      "new_volume_mm": 18525.7
+    },
+    {
+      "date": "2029-12-01",
+      "target_total_balance_mm": 28082.0,
+      "predicted_existing_balance_mm": 9270.688,
+      "new_volume_mm": 18811.31
+    },
+    {
+      "date": "2030-01-01",
+      "target_total_balance_mm": 28207.21,
+      "predicted_existing_balance_mm": 9111.1628,
+      "new_volume_mm": 19096.05
+    },
+    {
+      "date": "2030-02-01",
+      "target_total_balance_mm": 28332.38,
+      "predicted_existing_balance_mm": 8989.0155,
+      "new_volume_mm": 19343.36
+    },
+    {
+      "date": "2030-03-01",
+      "target_total_balance_mm": 28457.45,
+      "predicted_existing_balance_mm": 8867.259900000001,
+      "new_volume_mm": 19590.19
+    },
+    {
+      "date": "2030-04-01",
+      "target_total_balance_mm": 28582.34,
+      "predicted_existing_balance_mm": 8746.2222,
+      "new_volume_mm": 19836.12
+    },
+    {
+      "date": "2030-05-01",
+      "target_total_balance_mm": 28706.98,
+      "predicted_existing_balance_mm": 8626.565999999999,
+      "new_volume_mm": 20080.41
+    },
+    {
+      "date": "2030-06-01",
+      "target_total_balance_mm": 28831.3,
+      "predicted_existing_balance_mm": 8507.6837,
+      "new_volume_mm": 20323.62
+    },
+    {
+      "date": "2030-07-01",
+      "target_total_balance_mm": 28955.24,
+      "predicted_existing_balance_mm": 8388.9484,
+      "new_volume_mm": 20566.29
+    },
+    {
+      "date": "2030-08-01",
+      "target_total_balance_mm": 29078.71,
+      "predicted_existing_balance_mm": 8271.206,
+      "new_volume_mm": 20807.5
+    },
+    {
+      "date": "2030-09-01",
+      "target_total_balance_mm": 29201.66,
+      "predicted_existing_balance_mm": 8153.9403,
+      "new_volume_mm": 21047.72
+    },
+    {
+      "date": "2030-10-01",
+      "target_total_balance_mm": 29324.0,
+      "predicted_existing_balance_mm": 8037.2571,
+      "new_volume_mm": 21286.74
+    },
+    {
+      "date": "2030-11-01",
+      "target_total_balance_mm": 29445.67,
+      "predicted_existing_balance_mm": 7921.282,
+      "new_volume_mm": 21524.39
+    },
+    {
+      "date": "2030-12-01",
+      "target_total_balance_mm": 29566.6,
+      "predicted_existing_balance_mm": 7806.1928,
+      "new_volume_mm": 21760.41
+    },
+    {
+      "date": "2031-01-01",
+      "target_total_balance_mm": 29686.71,
+      "predicted_existing_balance_mm": 7691.6567,
+      "new_volume_mm": 21995.05
+    },
+    {
+      "date": "2031-02-01",
+      "target_total_balance_mm": 29805.94,
+      "predicted_existing_balance_mm": 7576.9979,
+      "new_volume_mm": 22228.94
+    },
+    {
+      "date": "2031-03-01",
+      "target_total_balance_mm": 29924.22,
+      "predicted_existing_balance_mm": 7463.6497,
+      "new_volume_mm": 22460.57
+    },
+    {
+      "date": "2031-04-01",
+      "target_total_balance_mm": 30041.47,
+      "predicted_existing_balance_mm": 7350.4786,
+      "new_volume_mm": 22690.99
+    },
+    {
+      "date": "2031-05-01",
+      "target_total_balance_mm": 30157.62,
+      "predicted_existing_balance_mm": 7238.0032,
+      "new_volume_mm": 22919.62
+    },
+    {
+      "date": "2031-06-01",
+      "target_total_balance_mm": 30272.61,
+      "predicted_existing_balance_mm": 7125.473400000001,
+      "new_volume_mm": 23147.14
+    },
+    {
+      "date": "2031-07-01",
+      "target_total_balance_mm": 30386.36,
+      "predicted_existing_balance_mm": 7013.730299999999,
+      "new_volume_mm": 23372.63
+    },
+    {
+      "date": "2031-08-01",
+      "target_total_balance_mm": 30498.8,
+      "predicted_existing_balance_mm": 6903.5841,
+      "new_volume_mm": 23595.22
+    },
+    {
+      "date": "2031-09-01",
+      "target_total_balance_mm": 30609.86,
+      "predicted_existing_balance_mm": 6792.9858,
+      "new_volume_mm": 23816.87
+    },
+    {
+      "date": "2031-10-01",
+      "target_total_balance_mm": 30719.47,
+      "predicted_existing_balance_mm": 6684.3019,
+      "new_volume_mm": 24035.17
+    },
+    {
+      "date": "2031-11-01",
+      "target_total_balance_mm": 30827.56,
+      "predicted_existing_balance_mm": 6576.210300000001,
+      "new_volume_mm": 24251.35
+    },
+    {
+      "date": "2031-12-01",
+      "target_total_balance_mm": 30934.06,
+      "predicted_existing_balance_mm": 6468.3662,
+      "new_volume_mm": 24465.69
+    },
+    {
+      "date": "2032-01-01",
+      "target_total_balance_mm": 31038.9,
+      "predicted_existing_balance_mm": 6361.7348,
+      "new_volume_mm": 24677.17
+    },
+    {
+      "date": "2032-02-01",
+      "target_total_balance_mm": 31142.0,
+      "predicted_existing_balance_mm": 6255.6155,
+      "new_volume_mm": 24886.38
+    },
+    {
+      "date": "2032-03-01",
+      "target_total_balance_mm": 31243.3,
+      "predicted_existing_balance_mm": 6149.2677,
+      "new_volume_mm": 25094.03
+    },
+    {
+      "date": "2032-04-01",
+      "target_total_balance_mm": 31342.72,
+      "predicted_existing_balance_mm": 6043.8878,
+      "new_volume_mm": 25298.83
+    },
+    {
+      "date": "2032-05-01",
+      "target_total_balance_mm": 31440.2,
+      "predicted_existing_balance_mm": 5938.9087,
+      "new_volume_mm": 25501.29
+    },
+    {
+      "date": "2032-06-01",
+      "target_total_balance_mm": 31535.67,
+      "predicted_existing_balance_mm": 5834.1449,
+      "new_volume_mm": 25701.53
+    },
+    {
+      "date": "2032-07-01",
+      "target_total_balance_mm": 31629.04,
+      "predicted_existing_balance_mm": 5730.1192,
+      "new_volume_mm": 25898.92
+    },
+    {
+      "date": "2032-08-01",
+      "target_total_balance_mm": 31720.26,
+      "predicted_existing_balance_mm": 5629.1309,
+      "new_volume_mm": 26091.13
+    },
+    {
+      "date": "2032-09-01",
+      "target_total_balance_mm": 31809.25,
+      "predicted_existing_balance_mm": 5528.4199,
+      "new_volume_mm": 26280.83
+    },
+    {
+      "date": "2032-10-01",
+      "target_total_balance_mm": 31895.95,
+      "predicted_existing_balance_mm": 5428.1711,
+      "new_volume_mm": 26467.78
+    },
+    {
+      "date": "2032-11-01",
+      "target_total_balance_mm": 31980.27,
+      "predicted_existing_balance_mm": 5327.8905,
+      "new_volume_mm": 26652.38
+    },
+    {
+      "date": "2032-12-01",
+      "target_total_balance_mm": 32062.15,
+      "predicted_existing_balance_mm": 5228.13,
+      "new_volume_mm": 26834.02
+    },
+    {
+      "date": "2033-01-01",
+      "target_total_balance_mm": 32141.52,
+      "predicted_existing_balance_mm": 5129.165,
+      "new_volume_mm": 27012.36
+    },
+    {
+      "date": "2033-02-01",
+      "target_total_balance_mm": 32218.31,
+      "predicted_existing_balance_mm": 5033.7904,
+      "new_volume_mm": 27184.52
+    },
+    {
+      "date": "2033-03-01",
+      "target_total_balance_mm": 32292.45,
+      "predicted_existing_balance_mm": 4938.6007,
+      "new_volume_mm": 27353.85
+    },
+    {
+      "date": "2033-04-01",
+      "target_total_balance_mm": 32363.86,
+      "predicted_existing_balance_mm": 4843.5207,
+      "new_volume_mm": 27520.34
+    },
+    {
+      "date": "2033-05-01",
+      "target_total_balance_mm": 32432.48,
+      "predicted_existing_balance_mm": 4749.0141,
+      "new_volume_mm": 27683.47
+    },
+    {
+      "date": "2033-06-01",
+      "target_total_balance_mm": 32498.23,
+      "predicted_existing_balance_mm": 4655.7549,
+      "new_volume_mm": 27842.48
+    },
+    {
+      "date": "2033-07-01",
+      "target_total_balance_mm": 32561.05,
+      "predicted_existing_balance_mm": 4562.8151,
+      "new_volume_mm": 27998.23
+    },
+    {
+      "date": "2033-08-01",
+      "target_total_balance_mm": 32620.87,
+      "predicted_existing_balance_mm": 4474.6299,
+      "new_volume_mm": 28146.24
+    },
+    {
+      "date": "2033-09-01",
+      "target_total_balance_mm": 32677.6,
+      "predicted_existing_balance_mm": 4386.8631000000005,
+      "new_volume_mm": 28290.74
+    },
+    {
+      "date": "2033-10-01",
+      "target_total_balance_mm": 32731.19,
+      "predicted_existing_balance_mm": 4299.7272,
+      "new_volume_mm": 28431.46
+    },
+    {
+      "date": "2033-11-01",
+      "target_total_balance_mm": 32781.56,
+      "predicted_existing_balance_mm": 4212.1707,
+      "new_volume_mm": 28569.39
+    },
+    {
+      "date": "2033-12-01",
+      "target_total_balance_mm": 32828.64,
+      "predicted_existing_balance_mm": 4125.0965,
+      "new_volume_mm": 28703.54
+    },
+    {
+      "date": "2034-01-01",
+      "target_total_balance_mm": 32872.36,
+      "predicted_existing_balance_mm": 4038.5847,
+      "new_volume_mm": 28833.78
+    },
+    {
+      "date": "2034-02-01",
+      "target_total_balance_mm": 32912.65,
+      "predicted_existing_balance_mm": 3963.2352,
+      "new_volume_mm": 28949.41
+    },
+    {
+      "date": "2034-03-01",
+      "target_total_balance_mm": 32949.44,
+      "predicted_existing_balance_mm": 3888.1891,
+      "new_volume_mm": 29061.25
+    },
+    {
+      "date": "2034-04-01",
+      "target_total_balance_mm": 32982.66,
+      "predicted_existing_balance_mm": 3813.5108999999998,
+      "new_volume_mm": 29169.15
+    },
+    {
+      "date": "2034-05-01",
+      "target_total_balance_mm": 33012.23,
+      "predicted_existing_balance_mm": 3739.0364,
+      "new_volume_mm": 29273.19
+    },
+    {
+      "date": "2034-06-01",
+      "target_total_balance_mm": 33038.09,
+      "predicted_existing_balance_mm": 3664.8137,
+      "new_volume_mm": 29373.28
+    },
+    {
+      "date": "2034-07-01",
+      "target_total_balance_mm": 33060.16,
+      "predicted_existing_balance_mm": 3590.4972,
+      "new_volume_mm": 29469.66
+    },
+    {
+      "date": "2034-08-01",
+      "target_total_balance_mm": 33078.38,
+      "predicted_existing_balance_mm": 3528.023,
+      "new_volume_mm": 29550.36
+    },
+    {
+      "date": "2034-09-01",
+      "target_total_balance_mm": 33092.68,
+      "predicted_existing_balance_mm": 3465.989,
+      "new_volume_mm": 29626.69
+    },
+    {
+      "date": "2034-10-01",
+      "target_total_balance_mm": 33102.98,
+      "predicted_existing_balance_mm": 3404.0735,
+      "new_volume_mm": 29698.91
+    },
+    {
+      "date": "2034-11-01",
+      "target_total_balance_mm": 33109.21,
+      "predicted_existing_balance_mm": 3341.8958000000002,
+      "new_volume_mm": 29767.31
+    },
+    {
+      "date": "2034-12-01",
+      "target_total_balance_mm": 33111.3,
+      "predicted_existing_balance_mm": 3280.1978,
+      "new_volume_mm": 29831.1
+    }
+  ],
+  "next_12m_new_volume_mm": 32886.76,
+  "total_10yr_new_volume_mm": 2130531.76,
+  "pool_summary": {
+    "as_of_date": "2025-01-01",
+    "total_cusips": 34,
+    "total_balance_mm": 22074.2,
+    "by_product_type": {
+      "CMBS": {
+        "cusip_count": 8,
+        "total_balance_mm": 5039.5,
+        "avg_duration": 4.683,
+        "avg_oas_bps": 133.1,
+        "avg_liquidity_score": 6.06,
+        "avg_coupon": 5.156,
+        "agencies": [
+          "PRIVATE"
+        ]
+      },
+      "MBS": {
+        "cusip_count": 21,
+        "total_balance_mm": 7534.7,
+        "avg_duration": 3.986,
+        "avg_oas_bps": 76.7,
+        "avg_liquidity_score": 8.62,
+        "avg_coupon": 3.94,
+        "agencies": [
+          "FHLMC",
+          "FNMA",
+          "GNMA"
+        ]
+      },
+      "TREASURY": {
+        "cusip_count": 5,
+        "total_balance_mm": 9500.0,
+        "avg_duration": 7.526,
+        "avg_oas_bps": 0.0,
+        "avg_liquidity_score": 10.0,
+        "avg_coupon": 4.466,
+        "agencies": [
+          "N/A"
+        ]
+      }
+    }
+  },
+  "risk_constraints": {
+    "duration_min": 4.17,
+    "duration_max": 7.17,
+    "current_portfolio_duration": 5.669,
+    "projected_duration_after_purchase": 5.669,
+    "liquidity_score_min": 6.0,
+    "projected_liquidity_score": 8.63,
+    "max_cmbs_pct": 30.0,
+    "max_arm_pct": 20.0,
+    "notes": [
+      "ℹ  MBS below 40% – consider increasing agency exposure for yield"
+    ]
+  },
+  "risk_report": "{\n  \"current_portfolio\": {\n    \"total_balance_mm\": 22074.2,\n    \"duration_years\": 5.669,\n    \"liquidity_score\": 8.63,\n    \"concentration_pct\": {\n      \"CMBS\": 22.8,\n      \"MBS\": 34.1,\n      \"TREASURY\": 43.0\n    },\n    \"avg_oas_by_type_bps\": {\n      \"CMBS\": 133.1,\n      \"MBS\": 76.7,\n      \"TREASURY\": 0.0\n    }\n  },\n  \"risk_constraints\": {\n    \"duration_min\": 4.17,\n    \"duration_max\": 7.17,\n    \"current_portfolio_duration\": 5.669,\n    \"projected_duration_after_purchase\": 5.669,\n    \"liquidity_score_min\": 6.0,\n    \"projected_liquidity_score\": 8.63,\n    \"max_cmbs_pct\": 30.0,\n    \"max_arm_pct\": 20.0,\n    \"notes\": [\n      \"\\u2139  MBS below 40% \\u2013 consider increasing agency exposure for yield\"\n    ]\n  },\n  \"flags\": [\n    \"\\u2139  MBS below 40% \\u2013 consider increasing agency exposure for yield\"\n  ],\n  \"recommendation\": \"Address flagged risks before finalising allocation. Consider Treasuries to reduce duration if elevated; FNMA/GNMA agency MBS to improve liquidity.\"\n}",
+  "allocation_scenarios": [
+    {
+      "scenario_id": "conservative",
+      "label": "Conservative",
+      "mbs_pct": 45.0,
+      "cmbs_pct": 15.0,
+      "treasury_pct": 40.0,
+      "mbs_mm": 14799.0,
+      "cmbs_mm": 4933.0,
+      "treasury_mm": 13154.7,
+      "total_new_volume_mm": 32886.76,
+      "projected_duration": 5.0,
+      "projected_liquidity_score": 9.0,
+      "projected_yield_pct": 4.85,
+      "rationale": "Conservative allocation maximises Treasuries and high-grade agency MBS to control interest-rate risk and maintain liquidity. Suitable when duration must stay near lower bound or when market volatility is elevated."
+    },
+    {
+      "scenario_id": "moderate",
+      "label": "Moderate",
+      "mbs_pct": 60.0,
+      "cmbs_pct": 22.0,
+      "treasury_pct": 18.0,
+      "mbs_mm": 19732.1,
+      "cmbs_mm": 7235.1,
+      "treasury_mm": 5919.6,
+      "total_new_volume_mm": 32886.76,
+      "projected_duration": 5.3,
+      "projected_liquidity_score": 8.2,
+      "projected_yield_pct": 5.15,
+      "rationale": "Balanced allocation providing solid yield pickup over Treasuries through agency MBS and investment-grade CMBS, while keeping liquidity and duration within comfortable bounds."
+    },
+    {
+      "scenario_id": "aggressive",
+      "label": "Aggressive",
+      "mbs_pct": 65.0,
+      "cmbs_pct": 28.0,
+      "treasury_pct": 7.0,
+      "mbs_mm": 21376.4,
+      "cmbs_mm": 9208.3,
+      "treasury_mm": 2302.1,
+      "total_new_volume_mm": 32886.76,
+      "projected_duration": 5.7,
+      "projected_liquidity_score": 7.2,
+      "projected_yield_pct": 5.5,
+      "rationale": "Aggressive allocation tilts heavily toward higher-spread MBS and CMBS to maximise yield. Duration approaches upper bound. Suitable when the yield curve is steep and credit quality is strong."
+    }
+  ],
+  "selected_scenario": {
+    "scenario_id": "conservative",
+    "label": "Conservative",
+    "mbs_pct": 45.0,
+    "cmbs_pct": 15.0,
+    "treasury_pct": 40.0,
+    "mbs_mm": 14799.0,
+    "cmbs_mm": 4933.0,
+    "treasury_mm": 13154.7,
+    "total_new_volume_mm": 32886.76,
+    "projected_duration": 5.0,
+    "projected_liquidity_score": 9.0,
+    "projected_yield_pct": 4.85,
+    "rationale": "Conservative allocation maximises Treasuries and high-grade agency MBS to control interest-rate risk and maintain liquidity. Suitable when duration must stay near lower bound or when market volatility is elevated."
+  },
+  "mbs_breakdown": {
+    "fnma_fixed_30yr_pct": 40.0,
+    "fhlmc_fixed_30yr_pct": 20.0,
+    "gnma_fixed_30yr_pct": 15.0,
+    "fnma_fixed_15yr_pct": 15.0,
+    "fhlmc_fixed_15yr_pct": 5.0,
+    "arm_pct": 5.0,
+    "fnma_fixed_30yr_mm": 5919.6,
+    "fhlmc_fixed_30yr_mm": 2959.8,
+    "gnma_fixed_30yr_mm": 2219.8,
+    "fnma_fixed_15yr_mm": 2219.8,
+    "fhlmc_fixed_15yr_mm": 740.0,
+    "arm_mm": 740.0,
+    "rationale": "Balanced MBS mix: 30YR agency MBS dominates for yield, 15YR ladders provide shorter duration, small ARM sleeve benefits if rates fall. Mix of FNMA/FHLMC/GNMA for diversification."
+  },
+  "gate_decisions": [
+    {
+      "gate_name": "new_volume",
+      "status": "approved",
+      "trader_choice": "approve",
+      "trader_overrides": {},
+      "timestamp": "2026-03-09T17:55:39.709070",
+      "notes": ""
+    },
+    {
+      "gate_name": "risk_assessment",
+      "status": "approved",
+      "trader_choice": "",
+      "trader_overrides": {},
+      "timestamp": "2026-03-09T17:55:45.168457",
+      "notes": ""
+    },
+    {
+      "gate_name": "allocation",
+      "status": "approved",
+      "trader_choice": "conservative",
+      "trader_overrides": {
+        "selected_scenario_id": "conservative"
+      },
+      "timestamp": "2026-03-09T17:55:55.087893",
+      "notes": ""
+    },
+    {
+      "gate_name": "mbs_decomposition",
+      "status": "approved",
+      "trader_choice": "",
+      "trader_overrides": {},
+      "timestamp": "2026-03-09T17:56:05.185350",
+      "notes": ""
+    },
+    {
+      "gate_name": "final_approval",
+      "status": "approved",
+      "trader_choice": "confirm",
+      "trader_overrides": {},
+      "timestamp": "2026-03-09T17:56:05.192855",
+      "notes": ""
+    }
+  ],
+  "purchase_schedule": [
+    {
+      "product_type": "MBS",
+      "sub_type": "FNMA Fixed 30YR",
+      "amount_mm": 5919.6,
+      "target_coupon_range": "4.50–5.50%",
+      "target_duration": 6.5,
+      "target_oas_bps": 70.0,
+      "priority": 1
+    },
+    {
+      "product_type": "MBS",
+      "sub_type": "FHLMC Fixed 30YR",
+      "amount_mm": 2959.8,
+      "target_coupon_range": "4.50–5.50%",
+      "target_duration": 6.4,
+      "target_oas_bps": 72.0,
+      "priority": 2
+    },
+    {
+      "product_type": "MBS",
+      "sub_type": "GNMA Fixed 30YR",
+      "amount_mm": 2219.8,
+      "target_coupon_range": "4.25–5.25%",
+      "target_duration": 6.6,
+      "target_oas_bps": 55.0,
+      "priority": 3
+    },
+    {
+      "product_type": "MBS",
+      "sub_type": "FNMA Fixed 15YR",
+      "amount_mm": 2219.8,
+      "target_coupon_range": "4.00–5.00%",
+      "target_duration": 3.8,
+      "target_oas_bps": 60.0,
+      "priority": 4
+    },
+    {
+      "product_type": "MBS",
+      "sub_type": "FHLMC Fixed 15YR",
+      "amount_mm": 740.0,
+      "target_coupon_range": "4.00–5.00%",
+      "target_duration": 3.7,
+      "target_oas_bps": 62.0,
+      "priority": 5
+    },
+    {
+      "product_type": "MBS",
+      "sub_type": "ARM (FNMA 5/1)",
+      "amount_mm": 740.0,
+      "target_coupon_range": "4.00–4.75%",
+      "target_duration": 4.5,
+      "target_oas_bps": 85.0,
+      "priority": 6
+    },
+    {
+      "product_type": "CMBS",
+      "sub_type": "Conduit AAA",
+      "amount_mm": 3206.5,
+      "target_coupon_range": "4.75–5.50%",
+      "target_duration": 5.8,
+      "target_oas_bps": 100.0,
+      "priority": 7
+    },
+    {
+      "product_type": "CMBS",
+      "sub_type": "Conduit AA/A",
+      "amount_mm": 1726.5,
+      "target_coupon_range": "5.25–6.00%",
+      "target_duration": 5.5,
+      "target_oas_bps": 150.0,
+      "priority": 8
+    },
+    {
+      "product_type": "TREASURY",
+      "sub_type": "UST 10YR",
+      "amount_mm": 7892.8,
+      "target_coupon_range": "4.25–4.50%",
+      "target_duration": 8.0,
+      "target_oas_bps": 0.0,
+      "priority": 9
+    },
+    {
+      "product_type": "TREASURY",
+      "sub_type": "UST 5YR",
+      "amount_mm": 5261.9,
+      "target_coupon_range": "4.40–4.65%",
+      "target_duration": 4.4,
+      "target_oas_bps": 0.0,
+      "priority": 10
+    }
+  ],
+  "final_summary": "TRADING DECISION SUMMARY — 20260309_175526_c23ecd\nTrader: Trader  |  Risk Appetite: MODERATE\n\nNEW VOLUME (12-Month):  $32,886.8MM\nTOTAL PURCHASE AMOUNT: $32,886.7MM\n\nALLOCATION:\n  MBS:        45%  ($14,799.0MM)\n  CMBS:       15%  ($4,933.0MM)\n  Treasuries: 40%  ($13,154.7MM)\n  Proj. Duration: 5.00yr\n  Proj. Yield:    4.85%\n\nMBS BREAKDOWN:\n  FNMA Fixed 30YR:  40%  ($5,919.6MM)\n  FHLMC Fixed 30YR: 20%  ($2,959.8MM)\n  GNMA Fixed 30YR:  15%  ($2,219.8MM)\n  FNMA Fixed 15YR:  15%  ($2,219.8MM)\n  FHLMC Fixed 15YR: 5%  ($740.0MM)\n  ARM:              5%  ($740.0MM)\n\nGATE AUDIT TRAIL:\n  [new_volume          ] approved   | 2026-03-09T17:55:39\n  [risk_assessment     ] approved   | 2026-03-09T17:55:45\n  [allocation          ] approved   | 2026-03-09T17:55:55\n  [mbs_decomposition   ] approved   | 2026-03-09T17:56:05\n  [final_approval      ] approved   | 2026-03-09T17:56:05"
+}
